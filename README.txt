@@ -1,3 +1,5 @@
+All the source are downloaded from https://igs.bkg.bund.de/ntrip/bnc, please check https://igs.bkg.bund.de/ntrip/bnc for more information. The source here is just for test purpose.
+
 BKG NTRIP Client Version 2.12.18 (Rev. 9505)
 
 This ZIP archive provides the BNC source code as developed under
